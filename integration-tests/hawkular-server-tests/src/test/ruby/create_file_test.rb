@@ -1,11 +1,7 @@
-require 'byebug'
 require 'dotenv'
-require 'to_bool'
 require 'json'
 require 'active_support'
 require 'active_support/core_ext'
-require 'benchmark'
-
 
 describe "Create File for Hawkular Metrics " do
 
